@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_flutter_project_1
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Xiaow_authentication_screen
+A beginner friendly code on how to design a login and registration screen
+>>>>>>> 3b77eee5abd31e6aece6fcf5b706312faa989895
